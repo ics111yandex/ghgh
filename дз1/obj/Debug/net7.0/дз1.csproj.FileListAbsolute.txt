@@ -1,0 +1,15 @@
+C:\Users\Алексей\Desktop\Урок 1. Знакомство с языком программирования С#\дз1\bin\Debug\net7.0\дз1.exe
+C:\Users\Алексей\Desktop\Урок 1. Знакомство с языком программирования С#\дз1\bin\Debug\net7.0\дз1.deps.json
+C:\Users\Алексей\Desktop\Урок 1. Знакомство с языком программирования С#\дз1\bin\Debug\net7.0\дз1.runtimeconfig.json
+C:\Users\Алексей\Desktop\Урок 1. Знакомство с языком программирования С#\дз1\bin\Debug\net7.0\дз1.dll
+C:\Users\Алексей\Desktop\Урок 1. Знакомство с языком программирования С#\дз1\bin\Debug\net7.0\дз1.pdb
+C:\Users\Алексей\Desktop\Урок 1. Знакомство с языком программирования С#\дз1\obj\Debug\net7.0\дз1.csproj.AssemblyReference.cache
+C:\Users\Алексей\Desktop\Урок 1. Знакомство с языком программирования С#\дз1\obj\Debug\net7.0\дз1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Алексей\Desktop\Урок 1. Знакомство с языком программирования С#\дз1\obj\Debug\net7.0\дз1.AssemblyInfoInputs.cache
+C:\Users\Алексей\Desktop\Урок 1. Знакомство с языком программирования С#\дз1\obj\Debug\net7.0\дз1.AssemblyInfo.cs
+C:\Users\Алексей\Desktop\Урок 1. Знакомство с языком программирования С#\дз1\obj\Debug\net7.0\дз1.csproj.CoreCompileInputs.cache
+C:\Users\Алексей\Desktop\Урок 1. Знакомство с языком программирования С#\дз1\obj\Debug\net7.0\дз1.dll
+C:\Users\Алексей\Desktop\Урок 1. Знакомство с языком программирования С#\дз1\obj\Debug\net7.0\refint\дз1.dll
+C:\Users\Алексей\Desktop\Урок 1. Знакомство с языком программирования С#\дз1\obj\Debug\net7.0\дз1.pdb
+C:\Users\Алексей\Desktop\Урок 1. Знакомство с языком программирования С#\дз1\obj\Debug\net7.0\дз1.genruntimeconfig.cache
+C:\Users\Алексей\Desktop\Урок 1. Знакомство с языком программирования С#\дз1\obj\Debug\net7.0\ref\дз1.dll
